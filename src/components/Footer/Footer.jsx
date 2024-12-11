@@ -1,4 +1,4 @@
-import footerLogo from  '../../../public/Images/footer-logo.png'
+import footerLogo from  '/Images/footer-logo.png'
 import { FaTelegramPlane, FaDiscord, FaTwitter } from 'react-icons/fa';
 
 function Footer() {

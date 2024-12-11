@@ -11,9 +11,9 @@ theme: {
   extend: {
     backgroundImage: {
       'hero-bg': "url('Images/bg.png')",
-      'hero-foreground': "url('Images/foreground.png')",
-      'about-bg': "url('Images/about-bg.png')",
-      'faq-bg': "url('Images/faq-bg.png')",
+      'hero-foreground': "url('/Images/foreground.png')",
+      'about-bg': "url('/Images/about-bg.png')",
+      'faq-bg': "url('/Images/faq-bg.png')",
 
     },
 
