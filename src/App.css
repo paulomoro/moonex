@@ -1,0 +1,12 @@
+#root{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .main-Content{
+    max-width: 1360px; /* Adjust as needed */
+    margin: 0 auto; /* Centers the content horizontally */
+    padding: 0 20px;
+  }
+  
